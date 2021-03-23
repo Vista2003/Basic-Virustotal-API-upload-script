@@ -26,3 +26,5 @@ webbrowser.open(link)
 print("\n")
 print("\n")
 input("Press enter to exit... ")
+# Copyright (C) Hoi Kay Li 2021
+# This program comes with ABSOLUTELY NO WARRANTY; for details read the GPL-3.0 Licnese. This is free software, and you are welcome to redistribute in under certain conditions; read the GPL-3.0 Licnese for details.

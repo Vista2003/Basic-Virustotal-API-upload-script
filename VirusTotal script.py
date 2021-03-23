@@ -6,8 +6,6 @@ import re
 import webbrowser
 import time
 print("Welcome to this file scanner, powered by the VirusTotal API!")
-print("To proceed with the program, you must accept the EULA in the README.txt file of the folder of this file") 
-input("Press your enter key if you accept or close the program if you don't accept the terms set in the EULA... ") # User starts program
 print("==========================================")
 input("An open file dialog box will open, please select your file! Press enter to contiune... ")
 params = {'apikey': ''} # Enter your API key here

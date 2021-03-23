@@ -1,4 +1,4 @@
-# Basic-Virustotal-API-upload-script
+# Basic Virustotal API upload script
 This is a basic Virustotal API upload script for Windows.
 I say for Windows since I haven't tested it on other platforms.
 
